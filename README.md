@@ -303,5 +303,3 @@ MIT License - feel free to use this project for learning and development.
 5. Open a Pull Request
 
 ---
-
-Built with ❤️ using Node.js, Express, MongoDB, React, and Vite
